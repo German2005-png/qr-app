@@ -15,7 +15,7 @@ body {
     justify-content: center;
     flex-direction: column;
     /* background: linear-gradient(45deg, #b1b1b1, #40397a); */
-    background: url('https://wallpapercave.com/wp/wp3589963.jpg');
+    background: url('./img/wallpaper.webp');
     background-size: cover;
 }
 main {
